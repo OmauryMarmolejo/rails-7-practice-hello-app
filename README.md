@@ -1,0 +1,1 @@
+# rails-7-practice-hello-app
